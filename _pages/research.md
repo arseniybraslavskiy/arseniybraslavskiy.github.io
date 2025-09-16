@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers {#working}
+## Working Papers
 
 ### Beyond the Flypaper Effect: Crowding-In from Federal Investment in Public Transit  
 *Job Market Paper*\\
