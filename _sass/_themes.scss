@@ -50,10 +50,10 @@ $caption-font-family        : $serif;
 @include breakpoint-set("to ems", true);
 
 $small                      : 600px !default;
-$medium                     : 768px !default;
-$medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
+$medium                     : 768px !default; 
+// $medium-wide                : 900px !default;
+$large                      : 925px !default; // switches to horizontal
+$x-large                    : 1280px !default; //adds space between sidebar and main
 
 /* ==========================================================================
    Grid
