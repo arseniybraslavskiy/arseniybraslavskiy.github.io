@@ -32,5 +32,5 @@ This study re-examines the finding by Anderson, Hansen, and Rees (2013) that med
 *With <a href="https://sites.google.com/umd.edu/rbenjaminrodriguez">R. Benjamin Rodriguez</a>*
 
 ### Feudalism and Democracy: Evidence from Weimar Germany
-*With <a href="https://sites.google.com/view/kartikeyabatra">Kartikeya Batra</a>,  <a href="https://econweb.umd.edu/~kaplan/">Ethan Kaplan</a> \& <a href="https://laiwz.github.io">Weizheng Lai</a>*
+*With <a href="https://sites.google.com/view/kartikeyabatra">Kartikeya Batra</a>,  <a href="https://econweb.umd.edu/~kaplan/">Ethan Kaplan</a> & <a href="https://laiwz.github.io">Weizheng Lai</a>*
 
