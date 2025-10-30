@@ -41,3 +41,25 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Hide default arrow and make "Abstract" look like a link */
+details.abstract-block summary {
+  list-style: none;           /* hides arrow in some browsers */
+  cursor: pointer;
+  text-decoration: underline;
+  color: #000;                   /* black text */
+  display: inline-block;
+}
+
+details.abstract-block summary::-webkit-details-marker {
+  display: none;              /* hides arrow in WebKit browsers */
+}
+
+details.abstract-block[open] summary {
+  text-decoration: none;      /* remove underline when open */
+}
+
+/* Style the inside content */
+details.abstract-block > *:not(summary) {
+  font-size: 0.9em;   /* smaller text for the content */
+}
